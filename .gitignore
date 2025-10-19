@@ -13,6 +13,8 @@ apk/*
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 /[Pp]ackages/PICO Unity Integration SDK [0-9][0-9][0-9]
+*BurstDebugInformation*
+*.utmp
 
 #OculusIntegrationを使用する場合の除外フォルダを追加
 /[Aa]ssets/Oculus/
